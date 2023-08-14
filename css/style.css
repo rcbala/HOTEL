@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Anton', sans-serif;
+        font-family: 'Poppins', sans-serif;
+}
+#brand{
+font-family: 'Qwigley', cursive;
+   color: #ffa500;
+   font-weight: bolder;
+   font-size: 40px;
+   letter-spacing:  1cqmax;
+}
+.span{
+    font-weight: bold;
+}
+.navbar{
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+.icon-search{
+    color: yellow;
+}
+.icon-map{
+    color: orange;
+}
+.icon-person{
+    color: #ffa500;
+}
+.container-yellow{
+    background-color: #ffa500;
+    max-width: 100%;
+    padding-top: 10%;
+    height: 700px;
+}
+.white-box{
+    padding-top: 1cm;   
+    background-color: white;
+    border-radius: 8px;
+    
+}
+.button-left{
+    align-items: flex-start;
+background-color: #ffa500;
+}
+.search{
+    background-color: orangered;
+    font-family: 'Source Sans 3', sans-serif;
+    width: 25%;
+    font-weight: 800;
+}
+.meals{
+    font-family: 'Qwigley', cursive;
+        color:whitesmoke;
+        font-weight: 800px;
+        font-size: 3cm;      
+    }
+ .text-left{
+    text-align: left;        
+}
+.time {
+    
+    text-align: left;
+    background: rgba(241, 114, 40, 0.2);;
+    width: 50%;
+    border-radius: 8px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 800;
+    color: rgba(241, 114, 40, 1);;
+    text-align: center;
+
+}
+
+.heading-with-space {
+    margin-bottom: 100px;
+    color: rgba(241, 114, 40, 1);
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 900;
+}
+.track{
+    width: 60%;
+}
+
+.image-with-content {
+    display: flex;
+    align-items: center;
+}
+
+.image-with-content img {
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 50px;
+
+}
+
+.hdw {
+    text-align: center;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: 600;
+    color: rgb(182, 69, 31);
+}
+.search-food {
+
+    padding-left: 90px;
+    padding-bottom: 10px;
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Source Sans 3', sans-serif;
+    color: black;
+}
+
+.search-color {
+    padding-top:50px;
+
+    background-color: lightgrey;
+    height: 300px;
+}
+.menu{
+    text-align: center  ;
+    padding-right: 50px;
+}
+.container-white {
+    background-color: white;
+
+    max-width: 100%;
+    padding: 20px;
+    height: 700px;
+}
+.crispy{
+   color:  rgba(255, 179, 14, 1);
+   font-weight: 800;
+}
+.order-color{
+    width: 50%;
+    background-color: yellow;
+    font-weight: 600;
+    color: aliceblue;
+}
+.order-home{
+    padding-top: 50px;
+}
+.dosa{
+    
+    font-size: medium;
+    text-align: left;
+}
+.text-center{
+    font-weight: 700;
+
+}
+.order-now{
+
+        align-items: center;
+        text-align: center;
+        background: rgba(241, 114, 40, 1);
+        width: 100%;
+        border-radius: 8px;
+        font-family: 'Source Sans 3', sans-serif;
+        font-weight: 800;
+        color: white
+        ;
+        
+}
+.popular-item{
+    
+    padding-left: 5cm;
+}
+.popular-food{
+    align-items: center;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contact-us {
+    background-color: rgb(43, 40, 40);
+    height: 600px;
+    max-width: 100%;
+}
+
+.company-head {
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 30px;
+    font-weight: 700;
+}
+
+.company-style {
+    color: beige;
+    font-weight: 500;
+    text-align: left;
+    padding-left: 70px;
+}
+.follow-us{
+    width: 50%;
+    padding-left: 10%;
+}
+.mail{
+    color: aliceblue;
+}
+.contact-icon{
+    color: aliceblue;
+}
+.btn-sub{
+    background-color: #ffa500;
+    padding: 6px 6px;
+    border-radius: 8px;
+    color: aliceblue;
+}
+.email-box{
+    background-color: lightgrey;
+    padding: 6px 6px;
+    border-radius: 8px;
+}
+.all-rights{
+    padding-top: 100px;
+    text-align: left;
+    color: antiquewhite;
+}
+.heart{
+    text-align: right;
+    color: antiquewhite;
+}
+.heart-color{
+ color: #ffa500;
+}
